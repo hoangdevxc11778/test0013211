@@ -1,0 +1,9 @@
+{
+  "name": "test0013211",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^25.1.0",
+    "axios": "^1.7.0"
+  }
+}
